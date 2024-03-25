@@ -1,5 +1,5 @@
 #HPC公司Liunx組態檔專案
-#檔案清單
+# 檔案清單:
 (1)hosts
 (2)ens160.conf
 
